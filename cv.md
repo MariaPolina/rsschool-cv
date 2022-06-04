@@ -5,9 +5,9 @@
 * *Email:* by.maria.polina@gmail.com
 * *Discord RS-School server:* Mers (@MariaPolina)
 ## About Me
-I have 10-years experience in banking sphere,  including 4 years on head
+I have 10-years experience in banking,  including 4 years on head
 of department position. I started from call-center and reached the management position.
-Now I want to change the sphere. I am open for new knowledge and experience. 
+Now I want to change the sphere. I am open for new knowledge, experience and locations. 
 ## Skills
 * HTML5, CSS3
 * FlexBox, Grid Layout
