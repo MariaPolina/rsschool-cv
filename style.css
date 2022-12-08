@@ -121,7 +121,7 @@ p {
 }
 
 code {
-    display: inline-block;
+    display: block;
     padding: 10px;
     background-color: rgba(0, 162, 255, 0.226);
 }
@@ -161,8 +161,9 @@ footer {
 }
 
 .rss-logo {
-    display: inline-block;
+    display: block;
     width: 100px;
     height: 30px;
     background: #ffffff00 url(https://rs.school/images/rs_school_js.svg) center center no-repeat;
+    font-size: 0 !important;
 }
